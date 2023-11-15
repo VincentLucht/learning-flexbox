@@ -1,0 +1,22 @@
+.container {
+    background-color: grey;
+    margin: auto;
+    width: 400px;
+    height: 200px;
+    gap: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-1 {
+    border: 2px solid blue;
+}
+
+.box-2 {
+    border: 2px solid blue
+}
+
+.box-3 {
+    border: 2px solid blue;
+}

@@ -1,5 +1,5 @@
-Completed assignment 5
+Almost done with assignment 7 
 
-- even though TOP said it was easy, I had quite some difficulties
-- learned how to add combine a divs
---> how to combine a div and a button so that they both are in the same box
+- need to change the width of the sidebar to 300px (no shrinking)
+- sidebar links 24px + align to left side 
+- add 16px padding to sidebar, 32px padding to card section

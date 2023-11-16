@@ -1,0 +1,5 @@
+Completed assignment 5
+
+- even though TOP said it was easy, I had quite some difficulties
+- learned how to add combine a divs
+--> how to combine a div and a button so that they both are in the same box

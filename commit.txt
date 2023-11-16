@@ -1,5 +1,3 @@
-Almost done with assignment 7 
+Finally finished all assingments
 
-- need to change the width of the sidebar to 300px (no shrinking)
-- sidebar links 24px + align to left side 
-- add 16px padding to sidebar, 32px padding to card section
+it was really tough, but I learned a lot
